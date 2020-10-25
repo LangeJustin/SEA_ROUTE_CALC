@@ -3,7 +3,7 @@ This sea route calculator computes the fastest water route given the LAT/LONG of
 
 An example use-case can be found [here](https://kepler.gl/demo/map?mapUrl=https://dl.dropboxusercontent.com/s/s3vfyjw6kajn8ez/keplergl_t9mztr3.json).
 
-![Example](img/example.png)
+![Example](./img/example.PNG)
 
 This repo is based on [SeaRoute](https://github.com/eurostat/searoute) which requires Java 1.9 or higher. Run `java --version` to check if Java is installed and what is the current version.
 
