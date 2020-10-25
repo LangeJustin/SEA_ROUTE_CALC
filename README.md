@@ -1,5 +1,5 @@
 # SEA_ROUTE_CALC
-This sea route calculator computes the fastest water route and its distance in KM given the LAT/LONG of a given position, to a given LAT/LONG destinination. The output file is a [GeoJSON](https://geojson.org/) (\*.geojson). This file can be displayed unsing [Kepler](kepler.gl), an opensource visualisation software developed Uber.
+This sea route calculator computes the fastest water route and its distance in KM given the LAT/LONG of a given position, to a given LAT/LONG destinination. The output file is a [GeoJSON](https://geojson.org/) (\*.geojson). This file can be displayed unsing [Kepler](kepler.gl), an opensource visualisation software developed by Uber.
 
 An example use-case can be found [here](https://kepler.gl/demo/map?mapUrl=https://dl.dropboxusercontent.com/s/s3vfyjw6kajn8ez/keplergl_t9mztr3.json).
 
